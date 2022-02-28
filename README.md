@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Install](#install)
+* [Code](#code)
 
 ## Introducton 
 The purpose of this project is to explore the features of music from Spotify. I decided to choose a piece of the discography of a great, british band - The Cure.
