@@ -26,4 +26,4 @@ A software to run and execute a Jupyter Notebook is also required.
 
 ## Code
 Tempalte code is provided in the the_cure_analysis.ipynb notebook file. 
-Dataset thecure.csv was downloaded from the Spotify using code from following project: 
+Dataset thecure.csv was downloaded from the Spotify.
